@@ -1,0 +1,27 @@
+Assessment Question 2: Pick 2 items from the Test Scenario list and create the actual gherkin test.
+
+Answer: Due to unclear instruction about how to answer and what is expected for this question, 
+following actions has been taken-
+
+	1) A sample Maven Mobile Automation Project has been created 
+	2) Selenium, Appium and Cucumber has been used with Java
+	3) All required jars and dependencies are added
+	4) Sample gherkin test is added for 2 Scenario
+	5) All required code to launch mobile application is included in BaseConfig class
+	6) Separate Property file and how to read property file is also included
+	7) Test Runner script is included
+	9) Sample smoke test script is also included.
+	10) Assessment Question 1, 3, 4 answers are included in a separate forlder withing this same project 
+	for better sharing through Github.
+	
+Note: I did not found Chase Bank apk or ipa file for mobile testing.  so I could not include complete 
+automation code and scripts for the Scenario. But the format, structure, and sample code is included 
+within this project. I hope my project setting, structure, format etc. techniques will help you  determine 
+my technical skills and qualifications for this role.
+
+
+Please feel free to reach me for any further instructions and concerns.
+
+Thank You,
+Sharmin Promi
+promisharmin@gmail.com

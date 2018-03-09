@@ -1,0 +1,10 @@
+Assessment Question 3: What are the different locator strategies to identify an element in Appium?
+
+Answer: There are different locators supported by Appium to identify element. Following are the locators-
+
+	1)	Finding element by ID
+	2)	Finding element by name
+	3)	Finding element by className
+	4)	Finding element by AndroidUIAutomator
+	5)	Finding element by Xpath
+	

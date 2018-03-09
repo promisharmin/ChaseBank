@@ -1,0 +1,19 @@
+#Author: promisharmin@gmail.com
+
+
+Assessment Question 1: Based on the User Story narrative above, list down at least five critical test
+scenarios/ test cases to validate and sign off the story. List the test scenario name only, no details.
+
+Answer:
+
+Feature: Display dual log on screen after app instal
+  
+1)  Scenario Outline: User Install and Launch the app first time and alternate log on screen display
+
+2)  Scenario Outline: Basic info screen is displayed after tapping on Enroll.
+  
+3)  Scenario Outline: BAU Logon screen is displayed after tapping on Log on.
+  
+4)  Scenario Outline: BAU Logon screen is displayed after User update and relaunch the app.
+  
+5)  Scenario Outline: User delete and reinstall the app, Alternate Log on screen is displayed.

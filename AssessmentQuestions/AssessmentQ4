@@ -1,0 +1,14 @@
+Assessment Question 4: Consider HTML snippet below for an element whose id is changing
+dynamically in different executions as:
+
+	<input name=ChaseBank1234454454>; </input>
+	<input name=ChaseBank90980989979> </input>
+	<input name=ChaseBank_fdfdfdfdfdfddf> </input>
+
+How do you handle the above situation and write a generic locator to match any of the above locators?
+
+Answer:  I will use Xpath locator to identify above situation.  There are 2 ways we can write Xpath as generic locator for this situation.
+
+	1)	//*[contains(@name,'ChaseBank')]
+	2)	//*[starts-with(@name,'ChaseBank')]
+	
